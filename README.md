@@ -1,2 +1,6 @@
-# minority_foodservice_app2
-Website created and curated for minority communities, more tuned towards Latino communities, this was made to support small buisnesses looking to branch out and providing a translation API to provide the best service to anyone interested in purchasing from the company. 
+# Food Service Web Application for Minorities
+
+- Curated and created a website to have useful translation for everyone to use.
+- Made to support small buisnesses of minority groups and planning a posting page to update the store.
+
+
