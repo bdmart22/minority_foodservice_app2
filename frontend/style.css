@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #fdfdfd;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  color: #d35400;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: #27ae60;
+  border: none;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#menu, #updates {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
